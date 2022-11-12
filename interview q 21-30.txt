@@ -1,0 +1,11 @@
+Q22) Explain Friend function?
+ans:-friend Function: Friend are functions or whole classes which are granted access to the private data of a class.This breaks the encapsulation.
+
+It is a non-member function.
+Has access to all the Private and Protected members of a class.
+Friend class: One class friend of another class.
+
+syntax: friend class class_name;
+
+The friend class and all of its member functions have access to the private members defined within the other class.
+provides additional functionality from outside the class.
